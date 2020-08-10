@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hello](https://user-images.githubusercontent.com/37977643/89768387-d9909880-dafb-11ea-9eba-aadc979b61f4.gif)
+
 <!--
 **saschametz/saschametz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
